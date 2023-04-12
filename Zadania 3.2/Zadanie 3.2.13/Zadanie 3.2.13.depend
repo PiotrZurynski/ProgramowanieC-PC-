@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681327519 source:c:\users\pewdi\desktop\zadania 3.2\zadanie 3.2.13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
