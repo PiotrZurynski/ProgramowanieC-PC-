@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682080915 source:c:\users\pewdi\desktop\probne\probne 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

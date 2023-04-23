@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682254183 source:c:\users\pewdi\desktop\probne\probnedebug\main.c
+	<stdio.h>
+	<stdlib.h>
+
