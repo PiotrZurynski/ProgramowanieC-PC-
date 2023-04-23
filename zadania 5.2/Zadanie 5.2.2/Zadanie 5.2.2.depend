@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682098754 source:c:\users\pewdi\desktop\zadania 5.2\zadanie 5.2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
