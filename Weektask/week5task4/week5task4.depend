@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681575204 source:c:\users\pewdi\desktop\weektask\week5task4\main.c
+	<stdio.h>
+	<stdlib.h>
+
